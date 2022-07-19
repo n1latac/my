@@ -61,6 +61,7 @@ h1{
    box-sizing: border-box;
    display: inline-block;
    line-height: 2em;
+   color: white;
 }
 .section__3_secondblock {
    width: 33.3%;
@@ -77,4 +78,5 @@ h1{
    box-sizing: border-box;
    display: inline-block;
    line-height: 2em;
+   color: white;
 }
