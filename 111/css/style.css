@@ -1,12 +1,26 @@
-.button{
-   text-decoration: none;
-   color: black;
-   width: 300px;
-   height: 150px;
-   display: block;
-   border: 1px solid #000;
-   white-space: nowrap;
-   overflow: hidden;
-   background-color: antiquewhite;
-   text-overflow: ellipsis;
+.header {
+}
+img{
+   width: 122px;
+   height: 130px;
+}
+.header__img {
+   width: 122px;
+   height: 130px;
+}
+.header__about {
+}
+.header__name {
+}
+.header__specialization {
+}
+.header__contacts {
+}
+.contacts {
+}
+.contacts__number {
+}
+.contacts__email {
+}
+.contacts__github {
 }
