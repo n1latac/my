@@ -1,0 +1,47 @@
+*{
+   margin: 0;
+}
+.first__viewport {
+   height: 100vh;
+   background: url('/img/beachshowcase.jpg');
+   background-size: cover;
+   background-position: center;
+   text-align: center;
+   color: #926239;
+}
+h1{
+   padding-top: 20%;
+   margin-bottom: 15px;
+}
+.first__viewport p{
+   font-size: 20px;
+}
+.button {
+   text-decoration: none;
+   color: #926239;
+   display: inline-block;
+   border: 1px solid #926239;
+   border-radius: 15px;
+   font-size: 20px;
+   height: 40px;
+   padding: 12px 15px 0px 15px;
+   margin-top: 20px;
+}
+.button:hover{
+   background-color: #995111;
+   color: white;
+}
+.blocks {
+}
+.section__1 {
+}
+.section__2 {
+}
+.section__3 {
+}
+.section__3_firstblock {
+}
+.section__3_secondblock {
+}
+.section__3_thirdblock {
+}
